@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dokecrfile
+vscode:
+  extensions:
+    - jebbs.plantuml
+    - contextmapper.context-mapper-vscode-extension
